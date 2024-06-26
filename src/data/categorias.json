@@ -1,0 +1,10 @@
+[
+    {
+        "id": "clasica",
+        "nombre": "Clásica"
+    },
+    {
+        "id": "moderna",
+        "nombre": "Moderna"
+    }
+]

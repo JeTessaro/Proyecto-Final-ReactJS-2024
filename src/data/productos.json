@@ -1,0 +1,96 @@
+[
+{
+    "id": 1,
+    "titulo": "Sillón 01",
+    "precio": 750000,
+    "img": "/public/Img/lineaClasica/img-01.JPG",
+    "descripcion": "Chester Clásico de 2 cuerpos color Suela Oscuro.",
+    "categoria": {
+        "id": "clasica",
+        "nombre": "Línea Clásica"
+    }
+},
+
+{
+    "id": 2,
+    "titulo": "Sillón 02",
+    "precio": 950000,
+    "img": "/public/Img/lineaModerna/img-05.JPG",
+    "descripcion": "Romantic de 2 cuerpos color Gris.",
+    "categoria": {
+        "id": "moderna",
+        "nombre": "Línea Moderna"
+}
+},
+
+{
+    "id": 3,
+    "titulo": "Sillón 03",
+    "precio": 920000,
+    "img": "/public/Img/lineaClasica/img-02.JPG",
+    "descripcion": "Boston de 2 cuerpos color Blanco.",
+    "categoria": {
+        "id": "clasica",
+        "nombre": "Línea Clásica"
+    }
+},
+
+{
+    "id": 4,
+    "titulo": "Sillón 04",
+    "precio": 850000,
+    "img": "/public/Img/lineaClasica/img-03.JPG",
+    "descripcion": "Prestige de 3 cuerpos color Suela Claro.",
+    "categoria": {
+        "id": "clasica",
+        "nombre": "Línea Clásica"
+}
+},
+
+{
+    "id": 5,
+    "titulo": "Sillón 05",
+    "precio": 950000,
+    "img": "/puclic/Img/lineaClasica/img-04.JPG",
+    "descripcion": "Chester de 2 cuerpos color Chocalate.",
+    "categoria": {
+        "id": "clasica",
+        "nombre": "Línea Clásica"
+}
+},
+
+{
+    "id": 6,
+    "titulo": "Sillón 06",
+    "precio": 650000,
+    "img": "/public/Img/lineaModerna/img-06.JPG",
+    "descripcion": "Individual de 1 cuerpo color Suela Oscuro.",
+    "categoria": {
+        "id": "moderna",
+        "nombre": "Línea Moderna"
+}
+},
+{
+    "id": 7,
+    "titulo": "Sillón 07",
+    "precio": 950000,
+    "img": "/public/Img/lineaModerna/img-07.JPG",
+    "descripcion": "Esquinero doble de 4 cuerpo color Negro.",
+    "categoria": {
+        "id": "moderna",
+        "nombre": "Línea Moderna"
+}
+},
+
+{
+    "id": 8,
+    "titulo": "Sillón 08",
+    "precio": 650000,
+    "img": "/public/Img/lineaModerna/img-08.JPG",
+    "descripcion": "Esquinero simple de 3 cuerpo color Blanco.",
+    "categoria": {
+        "id": "moderna",
+        "nombre": "Línea Moderna"
+}
+}
+]
